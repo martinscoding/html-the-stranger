@@ -5,14 +5,14 @@ A small educational website exploring *Albert Camus’* novel **“The Stranger�
 ---
 
 ## Components & Structure
-
+```
 |- index.html
 |- style.css
 |- subpages
     |- philosophical.html
     |- sources.html
     |- summary.html
-
+```
 
 - **index.html** – Home page and introduction in to the project
 - **style.css** – Stylesheet for layout and design
