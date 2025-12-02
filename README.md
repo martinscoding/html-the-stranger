@@ -44,7 +44,7 @@ The project served to enhance my skills in static website development with HTML 
 - CSS3  
 
 ### Author
-Created by **Martin Vitcov**
+Created by **Martin**
 
 ---
 
@@ -63,6 +63,6 @@ Das Projekt trug dazu bei, meine Fähigkeiten in der Entwicklung statischer Webs
 - CSS3
 
 ### Autor
-Erstellt von **Martin Vitcov**
+Erstellt von **Martin**
 
 
